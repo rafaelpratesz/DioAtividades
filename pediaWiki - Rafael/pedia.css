@@ -1,0 +1,125 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+  width: 100%;
+}
+
+.logo{
+  background-color: rgb(255, 255, 255);
+  border: 2px solid blueviolet ;
+  border-right: none;
+  border-top: none;
+  padding: 20px;
+  border-left: none;
+}
+
+.nome-site{
+  text-align: center;
+  margin-top: -90px;
+  color: rgb(161, 161, 161);
+}
+
+.nome-site span{
+  color: blueviolet;
+}
+
+
+.logo img{
+  margin-left: 20px;
+}
+
+.main{
+  border: 1px solid #b1b1b1;
+  width: 600px;
+  padding: 100px;
+  height: 500px;
+  margin-left: 550px;
+  margin-top: -700px;
+  border-radius: 20px;
+}
+
+.main .textlogo{
+  text-align: center;
+  margin-top: 60px;
+}
+
+.main .textlogo .texto-logo{
+  color: rgb(161, 161, 161);
+
+}
+
+.main .textlogo .texto-logo span{
+ color: blueviolet;
+}
+
+
+.main-texto{
+  margin-top: -70px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.button-main{
+  text-align: center;
+  margin-top: 80px;
+}
+
+.button-main button{
+  padding: 10px;
+  width: 100px;
+  border-radius: 10px;
+  border: none;
+  font-family: monospace;
+  cursor: pointer;
+}
+
+.button-main button:hover{
+  background-color: blueviolet;
+  color: white;
+}
+
+.main iframe{
+  border-radius: 10px;
+}
+
+.img-texto{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.sidebar{
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  height: 700px;
+  border: 1px solid #b1b1b1;
+  margin-top: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.ancora{
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  height: 700px;
+  border: 1px solid #b1b1b1;
+  border-radius: 20px;
+  text-align: center;
+  margin-left: 1400px;
+  margin-top: -1704px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  background-color: blueviolet;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+a:hover{
+  background-color: rgb(238, 238, 238);
+  color: blueviolet;
+}

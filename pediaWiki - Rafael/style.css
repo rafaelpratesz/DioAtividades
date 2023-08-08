@@ -1,0 +1,26 @@
+body{
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  padding: 0;
+}
+
+.imgae .textlogo{
+  text-align: center;
+  margin-top: -90px;
+  color: rgb(161, 161, 161);
+  font-family: arial;
+  font-size: 50px;
+  margin-top: 150px;
+}
+
+.imgae .textlogo span{
+  color: blueviolet;
+}
+
+.imgae .textlogo .textologoh1:hover{
+color: grey;
+}
+
+a{
+  text-decoration: none;
+}
